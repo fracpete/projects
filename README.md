@@ -1,5 +1,7 @@
 # Projects
 
+Standalone projects and libraries.
+
 * **[jcamp-dx](https://github.com/fracpete/jcamp-dx)**
 
   Reference implemention of the IUPAC JCAMP-DX spectroscopy data standard. 
@@ -66,6 +68,8 @@
 
 # Weka Plugins
 
+Weka packages for all sorts of things.
+
 * **[collective-classification](https://github.com/fracpete/collective-classification-weka-package)**
 
   Semi-Supervised Learning and Collective Classification.
@@ -123,6 +127,8 @@
 
 # Presentations/Workshops
 
+Material for presentations and workshops.
+
 * **[bigmine-2015](https://github.com/fracpete/bigmine-2015)**
 
   Publication and talk for [BigMine 2015](http://bigdata-mining.org/bigmine-15/), Sydney, Australia. 
@@ -137,6 +143,8 @@
 
 
 # Other
+
+Miscellaneous repositories.
 
 * **[adams-poster-templates](https://github.com/fracpete/adams-poster-templates)**
 
