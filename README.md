@@ -1,6 +1,6 @@
-# Projects
+# Java Projects
 
-Standalone projects and libraries.
+Standalone projects and libraries written in Java.
 
 * **[jcamp-dx](https://github.com/fracpete/jcamp-dx)**
 
@@ -15,17 +15,6 @@ Standalone projects and libraries.
 
   Directory bookmarks for the JFileChooser Swing component. 
 
-* **[latex-maven](https://github.com/fracpete/latex-maven)**
-
-  Maven plugin that allows you to create PDF documentation from LaTeX source
-  code. Fork of origina project at https://github.com/mojohaus/latex-maven,
-  but with a few more options now. 
-
-* **[maven-dependency-list-plugin](https://github.com/fracpete/maven-dependency-list-plugin)**
-
-  Simplified version of [maven-dependency](https://maven.apache.org/plugins/maven-dependency-plugin/) 
-  plugin that just outputs a list of dependencies. 
-
 * **[princeton-java-algorithms](https://github.com/fracpete/princeton-java-algorithms)**
 
   The most important algorithms and data structures in use today. 
@@ -35,18 +24,6 @@ Standalone projects and libraries.
   Contains the mavenized code examples from Princeton's *Introduction to Programming in Java*. 
 
   http://introcs.cs.princeton.edu/java/
-
-* **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
-
-  Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
-  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
-  from within Python.
-
-* **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
-
-  Python3 wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
-  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
-  from within Python3.
 
 * **[screencast4j](https://github.com/fracpete/screencast4j)**
 
@@ -60,6 +37,37 @@ Standalone projects and libraries.
 
   Library for making life easier with [Weka](http://www.cs.waikato.ac.nz/ml/weka/) 
   option handling. 
+
+
+# Python Projects
+
+Standalone projects and libraries written in Python.
+
+* **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
+
+  Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
+  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
+  from within Python.
+
+* **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
+
+  Python3 wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
+  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
+  from within Python3.
+
+
+# Maven Plugins
+
+* **[latex-maven](https://github.com/fracpete/latex-maven)**
+
+  Maven plugin that allows you to create PDF documentation from LaTeX source
+  code. Fork of origina project at https://github.com/mojohaus/latex-maven,
+  but with a few more options now. 
+
+* **[maven-dependency-list-plugin](https://github.com/fracpete/maven-dependency-list-plugin)**
+
+  Simplified version of [maven-dependency](https://maven.apache.org/plugins/maven-dependency-plugin/) 
+  plugin that just outputs a list of dependencies. 
 
 
 # Weka Plugins
