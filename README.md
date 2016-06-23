@@ -56,10 +56,6 @@ Standalone projects and libraries.
 
   Determining size of Java objects. 
 
-* **[vfsjfilechooser2](https://github.com/fracpete/vfsjfilechooser2)**
-
-  Updated fork of vfsjfilechooser project on sf.net. 
-
 * **[weka-option-utils](https://github.com/fracpete/weka-option-utils)**
 
   Library for making life easier with [Weka](http://www.cs.waikato.ac.nz/ml/weka/) 
@@ -159,4 +155,11 @@ Miscellaneous repositories.
 
   Templates for presentations and letters in LateX, LibreOffice and MS Office format.
 
+# Discontinued
+
+Discontinued projects.
+
+* **[vfsjfilechooser2](https://github.com/fracpete/vfsjfilechooser2)**
+
+  Updated fork of vfsjfilechooser project on sf.net. 
 
