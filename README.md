@@ -124,10 +124,6 @@ Weka packages for all sorts of things.
 
   Adds the [snowball stemmers](http://snowball.tartarus.org/). 
 
-* **[tclass](https://github.com/fracpete/tclass-weka-package)**
-
-  For classifying multivariate time series. 
-
 
 # Presentations/Workshops
 
