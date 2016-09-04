@@ -25,6 +25,10 @@ Standalone projects and libraries written in Java.
 
   http://introcs.cs.princeton.edu/java/
 
+* **[quicken4j](https://github.com/fracpete/quicken4j)**
+
+  Simple library for reading in Quicken Interchange Format (QIF) files.
+
 * **[screencast4j](https://github.com/fracpete/screencast4j)**
 
   Java frontend for creating screencasts (sound, desktop and webcam). 
