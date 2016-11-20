@@ -29,6 +29,10 @@ Standalone projects and libraries written in Java.
 
   Simple library for reading in Quicken Interchange Format (QIF) files.
 
+* **[romannumerals4j](https://github.com/fracpete/romannumerals4j)**
+
+  Tiny Java library for formatting and parsing Roman numerals. 
+
 * **[screencast4j](https://github.com/fracpete/screencast4j)**
 
   Java frontend for creating screencasts (sound, desktop and webcam). 
