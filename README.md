@@ -98,6 +98,10 @@ Weka packages for all sorts of things.
 
   Filters that allow modifying attribute/instance weights. 
 
+* **[fastrandomforest](https://github.com/fracpete/fastrandomforest-weka-package)**
+
+  Fast Random Forest implementation - fork of https://code.google.com/archive/p/fast-random-forest/
+
 * **[graphviz-treevisualize](https://github.com/fracpete/graphviz-treevisualize-weka-package)**
 
   TreeVisualize plugin for the Weka Explorer using
