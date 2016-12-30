@@ -2,6 +2,11 @@
 
 Standalone projects and libraries written in Java.
 
+* **[gpsformats4j](https://github.com/fracpete/gpsformats4j)**
+
+  GPS format conversions in Java. Very simple, very hacky.
+  Supported formats: CSV, TCX, GPX
+
 * **[jcamp-dx](https://github.com/fracpete/jcamp-dx)**
 
   Reference implemention of the IUPAC JCAMP-DX spectroscopy data standard. 
