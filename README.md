@@ -167,10 +167,6 @@ Miscellaneous repositories.
 
   Templates for [ADAMS](https://adams.cms.waikato.ac.nz/) posters.
 
-* **[conference-proceedings-bash](https://github.com/fracpete/conference-proceedings-bash)**
-
-  Bash scripts for managing LaTeX conference proceedings, e.g., for [JMLR](http://jmlr.org/proceedings/).
-
 * **[waikato-homepage](https://github.com/fracpete/waikato-homepage)**
 
   Code for generating my [University of Waikato homepage](http://www.cms.waikato.ac.nz/~fracpete/) 
