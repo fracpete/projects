@@ -62,7 +62,7 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python.
 
-* **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
+* **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper3-examples))**
 
   Python3 wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
