@@ -30,6 +30,10 @@ Standalone projects and libraries written in Java.
 
   http://introcs.cs.princeton.edu/java/
 
+* **[processoutput4j](https://github.com/fracpete/processoutput4j)**
+
+  Simple Java library for capturing stdout/stderr of processes launched from within Java. 
+
 * **[quicken4j](https://github.com/fracpete/quicken4j)**
 
   Simple library for reading in Quicken Interchange Format (QIF) files.
@@ -37,6 +41,10 @@ Standalone projects and libraries written in Java.
 * **[romannumerals4j](https://github.com/fracpete/romannumerals4j)**
 
   Tiny Java library for formatting and parsing Roman numerals. 
+
+* **[rsync4j](https://github.com/fracpete/rsync4j)**
+
+  Simple Java wrapper around rsync binaries for various platforms. 
 
 * **[screencast4j](https://github.com/fracpete/screencast4j)**
 
