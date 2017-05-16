@@ -68,13 +68,13 @@ Standalone projects and libraries written in Python.
 
   Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
-  from within Python.
+  from within Python 2.7.
 
 * **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper3-examples))**
 
   Python3 wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
-  from within Python3.
+  from within Python 3.
 
 
 # Maven Plugins
