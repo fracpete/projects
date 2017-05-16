@@ -44,7 +44,7 @@ Standalone projects and libraries written in Java.
 
 * **[rsync4j](https://github.com/fracpete/rsync4j)**
 
-  Simple Java wrapper around rsync binaries for various platforms. 
+  Simple Java wrapper for rsync for Linux, OSX and Windows (64bit only).
 
 * **[screencast4j](https://github.com/fracpete/screencast4j)**
 
