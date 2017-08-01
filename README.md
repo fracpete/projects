@@ -145,10 +145,6 @@ Weka packages for all sorts of things.
 
   Adds a tab to the Weka Explorer for viewing serialized models. 
 
-* **[snowball-stemmers](https://github.com/fracpete/snowball-stemmers-weka-package)**
-
-  Adds the [snowball stemmers](http://snowball.tartarus.org/). 
-
 
 # Presentations/Workshops
 
