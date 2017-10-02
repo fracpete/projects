@@ -2,6 +2,12 @@
 
 Standalone projects and libraries written in Java.
 
+* **[deps4j](https://github.com/fracpete/deps4j)**
+
+  Java library for determining the minimal set of classes on a
+  classpath to make a supplied list of classes compile
+  (uses the JDK's `jdeps` tool).
+
 * **[gpsformats4j](https://github.com/fracpete/gpsformats4j)**
 
   GPS format conversions in Java. Very simple, very hacky.
@@ -119,6 +125,11 @@ Weka packages for all sorts of things.
 
   TreeVisualize plugin for the Weka Explorer using
   [GraphViz](http://www.graphviz.org/) to generate the tree. 
+
+* **[minify-weka](https://github.com/fracpete/minify-weka)**
+
+  Not exactly a plugin, but a command-line tool for generating a minified build
+  environment of Weka based on a supplied set of classes.
 
 * **[missing-values-imputation](https://github.com/fracpete/missing-values-imputation-weka-package)**
 
