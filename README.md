@@ -26,6 +26,16 @@ Standalone projects and libraries written in Java.
 
   Directory bookmarks for the JFileChooser Swing component. 
 
+* **[minify-meka](https://github.com/fracpete/minify-meka)**
+
+  Command-line tool for generating a minified build environment of 
+  [Meka](https://github.com/Waikato/meka) based on a supplied set of classes.
+
+* **[minify-weka](https://github.com/fracpete/minify-weka)**
+
+  Command-line tool for generating a minified build environment of 
+  [Weka](https://www.cs.waikato.ac.nz/ml/weka/) based on a supplied set of classes.
+
 * **[princeton-java-algorithms](https://github.com/fracpete/princeton-java-algorithms)**
 
   The most important algorithms and data structures in use today. 
@@ -125,11 +135,6 @@ Weka packages for all sorts of things.
 
   TreeVisualize plugin for the Weka Explorer using
   [GraphViz](http://www.graphviz.org/) to generate the tree. 
-
-* **[minify-weka](https://github.com/fracpete/minify-weka)**
-
-  Not exactly a plugin, but a command-line tool for generating a minified build
-  environment of Weka based on a supplied set of classes.
 
 * **[missing-values-imputation](https://github.com/fracpete/missing-values-imputation-weka-package)**
 
