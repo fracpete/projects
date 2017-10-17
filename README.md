@@ -161,6 +161,12 @@ Weka packages for all sorts of things.
 
   Adds a tab to the Weka Explorer for viewing serialized models. 
 
+* **[wekaclassalgos](https://github.com/fracpete/wekaclassalgos)**
+
+  Collection of artificial neural network (ANN) algorithms and artificial immune system (AIS) 
+  algorithms, originally developed by [Jason Brownlee](https://sourceforge.net/projects/wekaclassalgos/)
+  for Weka 3.6.4, but now available as Weka package.
+
 
 # Presentations/Workshops
 
