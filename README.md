@@ -75,6 +75,12 @@ Standalone projects and libraries written in Java.
   Library for making life easier with [Weka](http://www.cs.waikato.ac.nz/ml/weka/) 
   option handling. 
 
+* **[weka-virtualenv](https://github.com/fracpete/weka-virtualenv)**
+
+  Command-line based manager for virtual environments for running multiple 
+  [Weka](http://www.cs.waikato.ac.nz/ml/weka/) installations 
+  (including packages) in parallel.
+
 
 # Python Projects
 
