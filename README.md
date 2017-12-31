@@ -66,6 +66,10 @@ Standalone projects and libraries written in Java.
 
   Java frontend for creating screencasts (sound, desktop and webcam). 
 
+* **[simple-argparse4j](https://github.com/fracpete/simple-argparse4j)**
+
+  Simple command-line option parser, inspired by [argparse4j](https://argparse4j.github.io/)
+
 * **[sizeofag](https://github.com/fracpete/sizeofag)**
 
   Determining size of Java objects. 
