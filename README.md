@@ -155,7 +155,7 @@ Weka packages for all sorts of things.
   For parameter optimization, similar to GridSearch, but with arbitrary
   number of parameters. 
 
-* **[mxexpression](https://github.com/fracpete/mxexpression-weka-package)
+* **[mxexpression](https://github.com/fracpete/mxexpression-weka-package)**
 
   Classifier and filter that apply a mathematical expression to the data
   to make a prediction or update a target attribute. Uses the 
