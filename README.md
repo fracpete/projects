@@ -26,6 +26,10 @@ Standalone projects and libraries written in Java.
 
   Directory bookmarks for the JFileChooser Swing component. 
 
+* **[loadlib4j](https://github.com/fracpete/loadlib4j)**
+
+  Little helper class for testing the loading of native libraries in Java.
+
 * **[minify-meka](https://github.com/fracpete/minify-meka)**
 
   Command-line tool for generating a minified build environment of 
