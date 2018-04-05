@@ -40,6 +40,12 @@ Standalone projects and libraries written in Java.
   Command-line tool for generating a minified build environment of 
   [Weka](https://www.cs.waikato.ac.nz/ml/weka/) based on a supplied set of classes.
 
+* **[musicg](https://github.com/fracpete/musicg)**
+
+  lightweight audio analysis library with the purpose of extracting both high level 
+  and low level audio features. Mavenized version of defunct 
+  [Google Code project](https://code.google.com/archive/p/musicg/).
+
 * **[princeton-java-algorithms](https://github.com/fracpete/princeton-java-algorithms)**
 
   The most important algorithms and data structures in use today. 
