@@ -80,6 +80,11 @@ Standalone projects and libraries written in Java.
 
   Simple command-line option parser, inspired by [argparse4j](https://argparse4j.github.io/)
 
+* **[simpleini4j](https://github.com/fracpete/simpleini4j)**
+
+  Simple handler for INI files, making the Apache classes for hierarchical 
+  INI files easier to use.
+
 * **[sizeofag](https://github.com/fracpete/sizeofag)**
 
   Determining size of Java objects. 
