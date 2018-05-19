@@ -118,13 +118,18 @@ Standalone projects and libraries written in Python.
   from within Python 3.
 
 
-# Maven Plugins
+# Maven-related
 
 * **[latex-maven](https://github.com/fracpete/latex-maven)**
 
   Maven plugin that allows you to create PDF documentation from LaTeX source
   code. Fork of origina project at https://github.com/mojohaus/latex-maven,
   but with a few more options now. 
+
+* **[maven-dependency-helper](https://github.com/fracpete/maven-dependency-helper)**
+
+  Helper class for automatically generating Maven dependency tag snippets by 
+  querying Maven Central using the SHA-1 of the jar(s).
 
 * **[maven-dependency-list-plugin](https://github.com/fracpete/maven-dependency-list-plugin)**
 
