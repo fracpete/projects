@@ -26,6 +26,11 @@ Standalone projects and libraries written in Java.
 
   Directory bookmarks for the JFileChooser Swing component. 
 
+* **[inetutils4j](https://github.com/fracpete/inetutils4j)**
+
+  Helper classes for internet related operations, like proxy settings and 
+  downloading files. 
+
 * **[loadlib4j](https://github.com/fracpete/loadlib4j)**
 
   Little helper class for testing the loading of native libraries in Java.
