@@ -31,6 +31,14 @@ Standalone projects and libraries written in Java.
   Helper classes for internet related operations, like proxy settings and 
   downloading files. 
 
+* **[jshell-scripting](https://github.com/fracpete/jshell-scripting)**
+
+  You can write and execute Java code without having to compile, thanks
+  to [jshell](https://docs.oracle.com/javase/9/jshell/). This library can 
+  be used from command-line straight-away or as Swing widget. 
+  Comes with [syntax highlighting](http://bobbylight.github.io/RSyntaxTextArea/) 
+  for your code.
+
 * **[loadlib4j](https://github.com/fracpete/loadlib4j)**
 
   Little helper class for testing the loading of native libraries in Java.
