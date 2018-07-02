@@ -179,6 +179,10 @@ Weka packages for all sorts of things.
   TreeVisualize plugin for the Weka Explorer using
   [GraphViz](http://www.graphviz.org/) to generate the tree. 
 
+* **[jshell-scripting](https://github.com/fracpete/jshell-scripting-weka-package)**
+
+  Allows scripting Java using [jshell](https://docs.oracle.com/javase/9/jshell/).
+
 * **[missing-values-imputation](https://github.com/fracpete/missing-values-imputation-weka-package)**
 
   For missing values imputation and injection using various techniques
