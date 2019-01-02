@@ -8,14 +8,24 @@ Standalone projects and libraries written in Java.
   classpath to make a supplied list of classes compile
   (uses the JDK's `jdeps` tool).
 
+* **[gpsaltprofile4j](https://github.com/fracpete/gpsaltprofile4j)**
+
+  Generates altitude profiles of GPS traces.
+
+  Supported input formats: CSV, TCX, GPX, KML
+  
+  Supported output formats: CSV, PNG
+
 * **[gpsformats4j](https://github.com/fracpete/gpsformats4j)**
 
   GPS format conversions in Java. Very simple, very hacky.
-  Supported formats: CSV, TCX, GPX
+
+  Supported formats: CSV, TCX, GPX, KML
 
 * **[jcamp-dx](https://github.com/fracpete/jcamp-dx)**
 
   Reference implemention of the IUPAC JCAMP-DX spectroscopy data standard. 
+
   Fork of orphaned Google code project, slightly modified to fix some bugs.
 
 * **[jclipboardhelper](https://github.com/fracpete/jclipboardhelper)**
