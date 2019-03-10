@@ -22,6 +22,10 @@ Standalone projects and libraries written in Java.
 
   Supported formats: CSV, TCX, GPX, KML
 
+* **[java-utils](https://github.com/fracpete/java-utils)**
+
+  Java library that tries to mimick Python's *enumerate* and *tuples*. 
+
 * **[jcamp-dx](https://github.com/fracpete/jcamp-dx)**
 
   Reference implemention of the IUPAC JCAMP-DX spectroscopy data standard. 
