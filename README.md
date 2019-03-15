@@ -253,6 +253,18 @@ Material for presentations and workshops.
   [ADAMS](https://adams.cms.waikato.ac.nz/) data mining workship in Kuching, 26/27 Nov 2015.
 
 
+# Databases
+
+Some database-related repositories:
+
+* **[afsis-db-sqlite](https://github.com/fracpete/afsis-db-sqlite)**
+
+  SQLite port of the Africa Soil Information Service (AfSIS).
+
+* **[employees-db-sqlite](https://github.com/fracpete/employees-db-sqlite)**
+
+  SQLite port of the [MySQL employees test DB](https://github.com/datacharmer/test_db)
+
 # Other
 
 Miscellaneous repositories.
