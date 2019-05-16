@@ -91,6 +91,11 @@ Standalone projects and libraries written in Java.
 
   Simple library for reading in Quicken Interchange Format (QIF) files.
 
+* **[remove-gpl](https://github.com/fracpete/remove-gpl)**
+
+  Command-line tool that strips the GPL preamble from source codes files (eg when 
+  providing a commercial release).
+
 * **[romannumerals4j](https://github.com/fracpete/romannumerals4j)**
 
   Tiny Java library for formatting and parsing Roman numerals. 
