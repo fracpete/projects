@@ -152,10 +152,17 @@ Standalone projects and libraries written in Python.
 
 # Maven-related
 
+* **[debian-maven-plugin](https://github.com/fracpete/debian-maven-plugin)**
+
+  Maven plugin that helps building DEB packages from Maven projects. The packages 
+  can be used in DEB-based operating systems such as Debian and Ubuntu. 
+  The plugin uses external Debian tools to do the actual packaging.
+  Fork of original project at: http://debian-maven.sf.net/
+
 * **[latex-maven](https://github.com/fracpete/latex-maven)**
 
   Maven plugin that allows you to create PDF documentation from LaTeX source
-  code. Fork of origina project at https://github.com/mojohaus/latex-maven,
+  code. Fork of original project at https://github.com/mojohaus/latex-maven,
   but with a few more options now. 
 
 * **[maven-dependency-helper](https://github.com/fracpete/maven-dependency-helper)**
