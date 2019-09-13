@@ -96,6 +96,10 @@ Standalone projects and libraries written in Java.
   Command-line tool that strips the GPL preamble from source codes files (eg when 
   providing a commercial release).
 
+* **[requests4j](https://github.com/fracpete/requests4j)**
+
+  HTTP for humans, inspired by the amazing Python requests library.
+
 * **[romannumerals4j](https://github.com/fracpete/romannumerals4j)**
 
   Tiny Java library for formatting and parsing Roman numerals. 
