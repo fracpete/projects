@@ -294,6 +294,11 @@ Miscellaneous repositories.
 
   Templates for [ADAMS](https://adams.cms.waikato.ac.nz/) posters.
 
+* **[doublecmd-configs](https://github.com/fracpete/doublecmd-configs)**
+
+  Configuration files for the [double-commander](https://doublecmd.sourceforge.io/) 
+  file browser, to make the UI more useful.
+
 * **[waikato-homepage](https://github.com/fracpete/waikato-homepage)**
 
   Code for generating my [University of Waikato homepage](http://www.cms.waikato.ac.nz/~fracpete/) 
