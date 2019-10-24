@@ -179,6 +179,11 @@ Standalone projects and libraries written in Python.
   Simplified version of [maven-dependency](https://maven.apache.org/plugins/maven-dependency-plugin/) 
   plugin that just outputs a list of dependencies. 
 
+* **[simple-maven-file-filtering](https://github.com/fracpete/simple-maven-file-filtering)**
+
+  Library that allows to perform simple file filtering on text files, with or
+  without additional variables and/or custom variable prefix/suffix.
+
 
 # Weka Plugins
 
