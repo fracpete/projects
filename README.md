@@ -125,6 +125,10 @@ Standalone projects and libraries written in Java.
 
   Determining size of Java objects. 
 
+* **[sudokuformats4j](https://github.com/fracpete/sudokuformats4j)**
+
+  Library for converting Sudoku puzzle collections into various formats. 
+
 * **[weka-option-utils](https://github.com/fracpete/weka-option-utils)**
 
   Library for making life easier with [Weka](http://www.cs.waikato.ac.nz/ml/weka/) 
