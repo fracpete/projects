@@ -22,6 +22,10 @@ Standalone projects and libraries written in Java.
 
   Supported formats: CSV, TCX, GPX, KML
 
+* **[java-class-version](https://github.com/fracpete/java-class-version)**
+
+  Java library that analyzes class files (dirs/jars) and collects the class file version. 
+
 * **[java-utils](https://github.com/fracpete/java-utils)**
 
   Java library that tries to mimick Python's *enumerate* and *tuples*. 
