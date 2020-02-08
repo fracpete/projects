@@ -149,6 +149,11 @@ Standalone projects and libraries written in Java.
 
 Standalone projects and libraries written in Python.
 
+* **[kodi-nfo-generator](https://github.com/fracpete/kodi-nfo-generator)**
+
+  Simple Python-based command-line tool to generate .nfo files for movies 
+  used by Kodi.
+
 * **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
 
   Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
