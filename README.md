@@ -169,6 +169,11 @@ Standalone projects and libraries written in Python.
 
 # Maven-related
 
+* **[bootstrapp](https://github.com/fracpete/bootstrapp)**
+
+  Command-line tool for bootstrapping Maven applications 
+  just by using the dependencies. 
+
 * **[debian-maven-plugin](https://github.com/fracpete/debian-maven-plugin)**
 
   Maven plugin that helps building DEB packages from Maven projects. The packages 
