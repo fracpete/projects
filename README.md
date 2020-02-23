@@ -104,6 +104,10 @@ Standalone projects and libraries written in Java.
 
   HTTP for humans, inspired by the amazing Python requests library.
 
+* **[resourceextractor4j](https://github.com/fracpete/resourceextractor4j)**
+
+  Library for making it easy to extract/read resources on the classpath.
+
 * **[romannumerals4j](https://github.com/fracpete/romannumerals4j)**
 
   Tiny Java library for formatting and parsing Roman numerals. 
