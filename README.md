@@ -57,6 +57,10 @@ Standalone projects and libraries written in Java.
   Comes with [syntax highlighting](http://bobbylight.github.io/RSyntaxTextArea/) 
   for your code.
 
+* **[list-weka-classes](https://github.com/fracpete/list-weka-classes)**
+
+  Helper library for outputting Weka class hierarchies.
+
 * **[loadlib4j](https://github.com/fracpete/loadlib4j)**
 
   Little helper class for testing the loading of native libraries in Java.
