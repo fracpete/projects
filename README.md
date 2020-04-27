@@ -162,6 +162,10 @@ Standalone projects and libraries written in Python.
   Simple Python-based command-line tool to generate .nfo files for movies 
   used by Kodi.
 
+* **[python-pulseaudio-profiles](https://github.com/fracpete/python-pulseaudio-profiles)**
+
+  Simple library to create and apply pulseaudio profiles under Linux.
+
 * **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
 
   Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
