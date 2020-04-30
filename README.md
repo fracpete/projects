@@ -213,6 +213,10 @@ Standalone projects and libraries written in Python.
   Simplified version of [maven-dependency](https://maven.apache.org/plugins/maven-dependency-plugin/) 
   plugin that just outputs a list of dependencies. 
 
+* **[parsergen-maven-plugin](https://github.com/fracpete/parsergen-maven-plugin)**
+
+  Maven plugin for generating parsers using JavaCup and JFlex.
+
 * **[simple-maven-file-filtering](https://github.com/fracpete/simple-maven-file-filtering)**
 
   Library that allows to perform simple file filtering on text files, with or
