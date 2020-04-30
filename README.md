@@ -166,6 +166,10 @@ Standalone projects and libraries written in Python.
 
   Simple library to create and apply pulseaudio profiles under Linux.
 
+* **[python-pulseaudio-profiles-trayicon](https://github.com/fracpete/python-pulseaudio-profiles-trayicon)**
+
+  Python library that adds a tray icon for easily changing and creating pulseaudio profiles.
+
 * **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
 
   Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
