@@ -65,6 +65,11 @@ Standalone projects and libraries written in Java.
 
   Little helper class for testing the loading of native libraries in Java.
 
+* **[mini-weka](https://github.com/fracpete/mini-weka)**
+
+  Stripped down fork of Weka 3.9.x branch (HEAD) without package manager 
+  and user interface. 
+
 * **[minify-meka](https://github.com/fracpete/minify-meka)**
 
   Command-line tool for generating a minified build environment of 
