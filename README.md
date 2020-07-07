@@ -22,6 +22,11 @@ Standalone projects and libraries written in Java.
 
   Supported formats: CSV, TCX, GPX, KML
 
+* **[inetutils4j](https://github.com/fracpete/inetutils4j)**
+
+  Helper classes for internet related operations, like proxy settings and 
+  downloading files. 
+
 * **[java-class-version](https://github.com/fracpete/java-class-version)**
 
   Java library that analyzes class files (dirs/jars) and collects the class file version. 
@@ -44,10 +49,9 @@ Standalone projects and libraries written in Java.
 
   Directory bookmarks for the JFileChooser Swing component. 
 
-* **[inetutils4j](https://github.com/fracpete/inetutils4j)**
+* **[jide-oss](https://github.com/fracpete/jide-oss)**
 
-  Helper classes for internet related operations, like proxy settings and 
-  downloading files. 
+  Patched versions of the [jide-oss](https://github.com/jidesoft/jide-oss/) swing library. 
 
 * **[jshell-scripting](https://github.com/fracpete/jshell-scripting)**
 
