@@ -351,6 +351,10 @@ Miscellaneous repositories.
   Configuration files for the [double-commander](https://doublecmd.sourceforge.io/) 
   file browser, to make the UI more useful.
 
+* **[termux-timelapse](https://github.com/fracpete/termux-timelapse)**
+
+  Bash script for generating time lapse videos on Android using Termux.
+
 * **[waikato-homepage](https://github.com/fracpete/waikato-homepage)**
 
   Code for generating my [University of Waikato homepage](http://www.cms.waikato.ac.nz/~fracpete/) 
