@@ -346,6 +346,10 @@ Miscellaneous repositories.
 
   Templates for [ADAMS](https://adams.cms.waikato.ac.nz/) posters.
 
+* **[bash-scripts](https://github.com/fracpete/bash-scripts)**
+
+  Collection of example bash scripts.
+
 * **[doublecmd-configs](https://github.com/fracpete/doublecmd-configs)**
 
   Configuration files for the [double-commander](https://doublecmd.sourceforge.io/) 
