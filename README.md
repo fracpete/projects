@@ -171,6 +171,10 @@ Standalone projects and libraries written in Python.
   Simple Python-based command-line tool to generate .nfo files for movies 
   used by Kodi.
 
+* **[python-console-scripts](https://github.com/fracpete/python-console-scripts)**
+
+  Example Python library that demonstrates the use of *argparse* and *console scripts*.
+
 * **[python-pulseaudio-profiles](https://github.com/fracpete/python-pulseaudio-profiles)**
 
   Simple library to create and apply pulseaudio profiles under Linux.
