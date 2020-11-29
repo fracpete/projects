@@ -264,6 +264,10 @@ Weka packages for all sorts of things.
 
   Fast Random Forest implementation - fork of https://code.google.com/archive/p/fast-random-forest/
 
+* **[filtered-loaders-weka-package](https://github.com/fracpete/filtered-loaders-weka-package)**
+
+  Meta-loaders that apply a filter to the data loader by the base-loader.
+
 * **[graphviz-treevisualize](https://github.com/fracpete/graphviz-treevisualize-weka-package)**
 
   TreeVisualize plugin for the Weka Explorer using
