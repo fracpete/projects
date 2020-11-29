@@ -248,6 +248,10 @@ Weka packages for all sorts of things.
 
   Converts command-lines into code snippets. 
 
+* **[common-csv-weka-package](https://github.com/fracpete/common-csv-weka-package)**
+
+  CSV loader/saver for Weka that handles common formats (requires Weka snapshot/release post r15656).
+
 * **[confusionmatrix](https://github.com/fracpete/confusionmatrix-weka-package)**
 
   Different visualizations of a classifier's confusion matrix in the Explorer.
