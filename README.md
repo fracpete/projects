@@ -350,6 +350,16 @@ Some database-related repositories:
 
   SQLite port of the [MySQL employees test DB](https://github.com/datacharmer/test_db)
 
+# Vim
+
+* **[vim-large-files](https://github.com/fracpete/vim-large-files)**
+
+  Vim plugin that turns off highlighting and recudes undo to speed up viewing/editing of large files. 
+
+* **[vim-simpleguifont](https://github.com/fracpete/vim-simpleguifont)**
+
+  Simple vim plugin for changing the font size of your GVim via keybinding.
+
 # Other
 
 Miscellaneous repositories.
@@ -370,10 +380,6 @@ Miscellaneous repositories.
 * **[termux-timelapse](https://github.com/fracpete/termux-timelapse)**
 
   Bash script for generating time lapse videos on Android using Termux.
-
-* **[]vim-simpleguifont(https://github.com/fracpete/vim-simpleguifont)**
-
-  Simple vim plugin for changing the font size of your GVim via keybinding.
 
 * **[waikato-homepage](https://github.com/fracpete/waikato-homepage)**
 
