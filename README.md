@@ -371,6 +371,10 @@ Miscellaneous repositories.
 
   Bash script for generating time lapse videos on Android using Termux.
 
+* **[]vim-simpleguifont(https://github.com/fracpete/vim-simpleguifont)**
+
+  Simple vim plugin for changing the font size of your GVim via keybinding.
+
 * **[waikato-homepage](https://github.com/fracpete/waikato-homepage)**
 
   Code for generating my [University of Waikato homepage](http://www.cms.waikato.ac.nz/~fracpete/) 
