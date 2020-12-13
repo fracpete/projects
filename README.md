@@ -352,6 +352,10 @@ Some database-related repositories:
 
 # Vim
 
+* **[vim plugins list](https://github.com/fracpete/vim-plugins)**
+
+  Curated list of vim plugins that I find useful.
+
 * **[vim-large-files](https://github.com/fracpete/vim-large-files)**
 
   Vim plugin that turns off highlighting and recudes undo to speed up viewing/editing of large files. 
