@@ -282,6 +282,10 @@ Weka packages for all sorts of things.
 
   Allows scripting Java using [jshell](https://docs.oracle.com/javase/9/jshell/).
 
+* **[matlab](https://github.com/fracpete/matlable-weka-package)**
+
+  Loader/saver reading/writing binary Matlab .mat files.
+
 * **[missing-values-imputation](https://github.com/fracpete/missing-values-imputation-weka-package)**
 
   For missing values imputation and injection using various techniques
