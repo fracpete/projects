@@ -325,6 +325,15 @@ Weka packages for all sorts of things.
   for Weka 3.6.4, but now available as Weka package.
 
 
+# Docker
+
+Some docker images that I manage:
+
+* **[bbb-render-docker](https://github.com/fracpete/bbb-render-docker)**
+
+  Docker image for the BigBlueButton render tool, to generate videos from recordings. 
+
+
 # Presentations/Workshops
 
 Material for presentations and workshops.
