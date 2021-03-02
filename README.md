@@ -187,12 +187,6 @@ Standalone projects and libraries written in Python.
 
   Python library that adds a tray icon for easily changing and creating pulseaudio profiles.
 
-* **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
-
-  Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
-  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
-  from within Python 2.7.
-
 * **[python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3) ([examples](https://github.com/fracpete/python-weka-wrapper3-examples))**
 
   Python3 wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
@@ -414,4 +408,12 @@ Miscellaneous repositories.
 * **[waikato-templates](https://github.com/fracpete/waikato-templates)**
 
   Templates for presentations and letters in LateX, LibreOffice and MS Office format.
+
+# Discontinued
+
+* **[python-weka-wrapper](https://github.com/fracpete/python-weka-wrapper) ([examples](https://github.com/fracpete/python-weka-wrapper-examples))**
+
+  Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
+  [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
+  from within Python 2.7.
 
