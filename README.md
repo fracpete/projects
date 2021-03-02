@@ -322,6 +322,10 @@ Weka packages for all sorts of things.
 
   Adds a tab to the Weka Explorer for viewing serialized models. 
 
+* **[tablesaw](https://github.com/fracpete/tablesaw-weka-package)**
+
+  Takes advantage of the tablesaw Java dataframe and visualization library.
+
 * **[wekaclassalgos](https://github.com/fracpete/wekaclassalgos)**
 
   Collection of artificial neural network (ANN) algorithms and artificial immune system (AIS) 
