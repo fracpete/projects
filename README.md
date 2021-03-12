@@ -308,6 +308,10 @@ Weka packages for all sorts of things.
 
   Adds the [PTStemmer](https://code.google.com/p/ptstemmer/). 
 
+* **[rmspe](https://github.com/fracpete/rmspe-weka-package)**
+
+  Adds the RMSPE (Root Mean Square Percentage Error) as metric for classifiers.
+
 * **[screencast4j](https://github.com/fracpete/screencast4j-weka-package)**
 
   Adds [screencast4j](https://github.com/fracpete/screencast4j) to the GUIChooser's menu. 
