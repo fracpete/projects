@@ -193,7 +193,7 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 3.
 
-* **[scikit-weka](https://github.com/fracpete/scikit-weka) ([examples](https://github.com/fracpete/scikit-weka-examples))**
+* **[sklearn-weka-plugin](https://github.com/fracpete/sklearn-weka-plugin) ([examples](https://github.com/fracpete/sklearn-weka-plugin-examples))**
 
   Makes Weka algorithms available in [scikit-learn](https://scikit-learn.org/), built
   on top of [python-weka-wrapper3](https://github.com/fracpete/python-weka-wrapper3).
