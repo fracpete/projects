@@ -345,6 +345,19 @@ Some docker images that I manage:
   Docker image for the BigBlueButton render tool, to generate videos from recordings. 
 
 
+## systemd
+
+Some systemd-related projects:
+
+* **[home-assistant-systemd](https://github.com/fracpete/home-assistant-systemd)**
+
+  Starting/stopping home-assistant.io on Raspberry Pi via systemd. 
+
+* **[kodi-systemd](https://github.com/fracpete/kodi-systemd)**
+
+  Starting/stopping kodi on Raspberry Pi via systemd.
+
+
 # Presentations/Workshops
 
 Material for presentations and workshops.
