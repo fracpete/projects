@@ -193,7 +193,7 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 3.
 
-* **[redis_helper](https://github.com/fracpete/redis_helper)**
+* **[simple-redis-helper](https://github.com/fracpete/simple-redis-helper)**
 
   Command-line utilities to for sending/receiving data to/from a Redis backend. 
 
