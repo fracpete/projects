@@ -193,6 +193,10 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 3.
 
+* **[redis_helper](https://github.com/fracpete/redis_helper)**
+
+  Command-line utilities to for sending/receiving data to/from a Redis backend. 
+
 * **[sklearn-weka-plugin](https://github.com/fracpete/sklearn-weka-plugin) ([examples](https://github.com/fracpete/sklearn-weka-plugin-examples))**
 
   Makes Weka algorithms available in [scikit-learn](https://scikit-learn.org/), built
