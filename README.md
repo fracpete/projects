@@ -289,6 +289,10 @@ Weka packages for all sorts of things.
 
   Allows scripting Java using [jshell](https://docs.oracle.com/javase/9/jshell/).
 
+* **[knn-undersampling](https://github.com/fracpete/knn-undersampling-weka-package)**
+
+  Filter for performing KNN undersampling, based on code from https://github.com/marcelobeckmann/knnund.
+
 * **[matlab](https://github.com/fracpete/matlab-weka-package)**
 
   Loader/saver reading/writing binary Matlab .mat files.
