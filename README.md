@@ -382,6 +382,10 @@ Material for presentations and workshops.
 
   [ADAMS](https://adams.cms.waikato.ac.nz/) data mining workship in Kuching, 26/27 Nov 2015.
 
+* **[Weka User International Conference 2021](https://github.com/fracpete/weka-user-conference-2021)**
+
+  Presentations and code of my two talks at the Weka User Internatioanl Conference, Nov 26 2021.
+
 
 # Databases
 
