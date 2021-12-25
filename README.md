@@ -357,6 +357,10 @@ Some docker images that I manage:
 
 Some systemd-related projects:
 
+* **[hd-idle-systemd](https://github.com/fracpete/hd-idle-systemd)**
+
+  Starting/stopping hd-idle on Raspberry Pi via systemd. 
+
 * **[home-assistant-systemd](https://github.com/fracpete/home-assistant-systemd)**
 
   Starting/stopping home-assistant.io on Raspberry Pi via systemd. 
