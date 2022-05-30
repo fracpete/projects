@@ -193,6 +193,10 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 3.
 
+* **[reuters21578](https://github.com/fracpete/reuters21578)**
+
+  Python script to generate a MEKA ARFF file from the [Reuters 21578](http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html) raw SGML data.
+
 * **[simple-redis-helper](https://github.com/fracpete/simple-redis-helper)**
 
   Command-line utilities to for sending/receiving data to/from a Redis backend. 
