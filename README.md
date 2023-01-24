@@ -170,6 +170,10 @@ Standalone projects and libraries written in Java.
 
 Standalone projects and libraries written in Python.
 
+* **[configurable-objects](https://github.com/fracpete/configurable-objects)**
+
+  Python library for making objects easily configurable via dictionaries and JSON. 
+
 * **[kodi-nfo-generator](https://github.com/fracpete/kodi-nfo-generator)**
 
   Simple Python-based command-line tool to generate .nfo files for movies 
@@ -196,6 +200,10 @@ Standalone projects and libraries written in Python.
 * **[reuters21578](https://github.com/fracpete/reuters21578)**
 
   Python script to generate a MEKA ARFF file from the [Reuters 21578](http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html) raw SGML data.
+
+* **[simple-data-flow](https://github.com/fracpete/simple-data-flow)**
+
+  Python framework for constructing and running simple workflows. 
 
 * **[simple-redis-helper](https://github.com/fracpete/simple-redis-helper)**
 
