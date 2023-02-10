@@ -305,6 +305,10 @@ Weka packages for all sorts of things.
 
   Filter for performing KNN undersampling, based on code from https://github.com/marcelobeckmann/knnund.
 
+* **[lightgbm](https://github.com/fracpete/lightgbm-weka-package)**
+
+  Package that makes [LightGBM](https://github.com/microsoft/LightGBM) functionality available in Weka.
+
 * **[matlab](https://github.com/fracpete/matlab-weka-package)**
 
   Loader/saver reading/writing binary Matlab .mat files.
@@ -466,4 +470,5 @@ Miscellaneous repositories.
   Python wrapper for [Weka](http://www.cs.waikato.ac.nz/ml/weka/) using 
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 2.7.
+
 
