@@ -197,6 +197,10 @@ Standalone projects and libraries written in Python.
   [javabridge](https://pypi.python.org/pypi/javabridge/). Allows you to use Weka
   from within Python 3.
 
+* **[qksms-deduplicate](https://github.com/fracpete/qksms-deduplicate)**
+
+  Simple Python script to deduplicate [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/) backup JSON files.
+
 * **[reuters21578](https://github.com/fracpete/reuters21578)**
 
   Python script to generate a MEKA ARFF file from the [Reuters 21578](http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html) raw SGML data.
