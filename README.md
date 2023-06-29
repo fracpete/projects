@@ -421,6 +421,10 @@ Some database-related repositories:
 
 # Vim
 
+* **[Vim macros](https://github.com/fracpete/vim-macros)**
+
+  Curated vim macros that I use in my setup.
+
 * **[vim plugins list](https://github.com/fracpete/vim-plugins)**
 
   Curated list of vim plugins that I find useful.
