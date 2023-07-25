@@ -321,6 +321,10 @@ Weka packages for all sorts of things.
 
   For missing values imputation and injection using various techniques
 
+* **[mlrules](https://github.com/fracpete/mlrules-weka-package)**
+
+  Maximum Likelihood Rule Ensembles (MLRules) classifier (fork of http://www.cs.put.poznan.pl/wkotlowski/software-mlrules.html).
+
 * **[multisearch](https://github.com/fracpete/multisearch-weka-package) ([examples](https://github.com/fracpete/multisearch-weka-package-examples))**
 
   For parameter optimization, similar to GridSearch, but with arbitrary
