@@ -22,6 +22,10 @@ Standalone projects and libraries written in Java.
 
   Supported formats: CSV, TCX, GPX, KML
 
+* **[gsonlines](https://github.com/fracpete/gsonlines)**
+
+  For reading/writing data in [jsonlines](https://jsonlines.org/) format.
+
 * **[inetutils4j](https://github.com/fracpete/inetutils4j)**
 
   Helper classes for internet related operations, like proxy settings and 
