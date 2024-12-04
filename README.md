@@ -178,6 +178,10 @@ Standalone projects and libraries written in Python.
 
   Python library for making objects easily configurable via dictionaries and JSON. 
 
+* **[frankenpower](https://github.com/fracpete/frankenpower)**
+
+  Python library for downloading and processing energy data from Frank Energy (NZ).
+
 * **[kodi-nfo-generator](https://github.com/fracpete/kodi-nfo-generator)**
 
   Simple Python-based command-line tool to generate .nfo files for movies 
@@ -461,6 +465,10 @@ Miscellaneous repositories.
 
   Configuration files for the [double-commander](https://doublecmd.sourceforge.io/) 
   file browser, to make the UI more useful.
+
+* **[onedrive-backup](https://github.com/fracpete/onedrive-backup)**
+
+  Using OneDrive for Business as a (sort of) backup solution for Linux with rclone and rclone-browser. 
 
 * **[rpi-remote-access](https://github.com/fracpete/rpi-remote-access)**
 
