@@ -187,6 +187,10 @@ Standalone projects and libraries written in Python.
   Simple Python-based command-line tool to generate .nfo files for movies 
   used by Kodi.
 
+* **[pymeka](https://github.com/fracpete/pymeka)**
+
+  Jpype-based Python wrapper for Meka.
+
 * **[python-console-scripts](https://github.com/fracpete/python-console-scripts)**
 
   Example Python library that demonstrates the use of *argparse* and *console scripts*.
