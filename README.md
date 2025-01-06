@@ -482,6 +482,10 @@ Miscellaneous repositories.
 
   Remote access to a Raspberry Pi via reverse proxy frp. 
 
+* **[simple-rsync-backup](https://github.com/fracpete/simple-rsync-backup)**
+
+  Simple rsync-based backup.
+
 * **[termux-timelapse](https://github.com/fracpete/termux-timelapse)**
 
   Bash script for generating time lapse videos on Android using Termux.
