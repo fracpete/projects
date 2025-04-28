@@ -238,6 +238,10 @@ Standalone projects and libraries written in Python.
   Command-line tool for bootstrapping Maven applications 
   just by using the dependencies. 
 
+* **[central-portal-parent](https://github.com/fracpete/central-portal-parent)**
+
+  Parent POM for Maven Central Portal, mimicking oss-parent POM.
+
 * **[debian-maven-plugin](https://github.com/fracpete/debian-maven-plugin)**
 
   Maven plugin that helps building DEB packages from Maven projects. The packages 
