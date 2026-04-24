@@ -178,9 +178,9 @@ Standalone projects and libraries written in Python.
 
   Python library for making objects easily configurable via dictionaries and JSON. 
 
-* **[frankenpower](https://github.com/fracpete/frankenpower)**
+* **[freerdp-trayicon](https://github.com/fracpete/freerdp-trayicon)**
 
-  Python library for downloading and processing energy data from Frank Energy (NZ).
+  Python library that adds a tray icon for easily launching xfreerdp connections. 
 
 * **[kodi-nfo-generator](https://github.com/fracpete/kodi-nfo-generator)**
 
